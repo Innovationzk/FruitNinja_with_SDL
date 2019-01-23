@@ -1,0 +1,31 @@
+﻿  Fruit.cpp
+c:\users\周奎\desktop\fruit ninja\fruit ninja\fruit.cpp(134): warning C4838: 从“double”转换到“int”需要收缩转换
+c:\users\周奎\desktop\fruit ninja\fruit ninja\fruit.cpp(134): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\周奎\desktop\fruit ninja\fruit ninja\fruit.cpp(178): warning C4838: 从“double”转换到“int”需要收缩转换
+c:\users\周奎\desktop\fruit ninja\fruit ninja\fruit.cpp(178): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\周奎\desktop\fruit ninja\fruit ninja\fruit.cpp(184): warning C4838: 从“double”转换到“int”需要收缩转换
+c:\users\周奎\desktop\fruit ninja\fruit ninja\fruit.cpp(184): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\周奎\desktop\fruit ninja\fruit ninja\fruit.cpp(186): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\周奎\desktop\fruit ninja\fruit ninja\fruit.cpp(187): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\周奎\desktop\fruit ninja\fruit ninja\fruit.cpp(195): warning C4838: 从“double”转换到“int”需要收缩转换
+c:\users\周奎\desktop\fruit ninja\fruit ninja\fruit.cpp(195): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\周奎\desktop\fruit ninja\fruit ninja\fruit.cpp(204): warning C4838: 从“double”转换到“int”需要收缩转换
+c:\users\周奎\desktop\fruit ninja\fruit ninja\fruit.cpp(204): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\周奎\desktop\fruit ninja\fruit ninja\fruit.cpp(206): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\周奎\desktop\fruit ninja\fruit ninja\fruit.cpp(207): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\周奎\desktop\fruit ninja\fruit ninja\fruit.cpp(265): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\周奎\desktop\fruit ninja\fruit ninja\fruit.cpp(266): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\周奎\desktop\fruit ninja\fruit ninja\fruit.cpp(356): warning C4838: 从“double”转换到“int”需要收缩转换
+c:\users\周奎\desktop\fruit ninja\fruit ninja\fruit.cpp(356): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Knife.cpp
+  MyFont.cpp
+  MyTexture.cpp
+c:\users\周奎\desktop\fruit ninja\fruit ninja\mytexture.cpp(53): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\周奎\desktop\fruit ninja\fruit ninja\mytexture.cpp(54): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  main.cpp
+c:\users\周奎\desktop\fruit ninja\fruit ninja\main.cpp(26): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\周奎\desktop\fruit ninja\fruit ninja\main.cpp(140): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\周奎\desktop\fruit ninja\fruit ninja\main.cpp(142): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\周奎\desktop\fruit ninja\fruit ninja\main.cpp(144): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  Fruit Ninja.vcxproj -> C:\Users\周奎\Desktop\Fruit Ninja\Debug\Fruit Ninja.exe
