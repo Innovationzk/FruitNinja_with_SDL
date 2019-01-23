@@ -1,2 +1,2 @@
 # Fruit Ninja
-## Create with C++, simple media player, visual studio
+## Create with C++, Simple DirectMedia Layer, visual studio
